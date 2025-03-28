@@ -19,7 +19,7 @@ sections:
       - type: Button
         label: Hire me
         altText: ''
-        url: /
+        url: '/https://www.linkedin.com/in/harshdwivedi050/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
