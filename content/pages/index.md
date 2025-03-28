@@ -31,7 +31,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/HARSH_DWIVEDI.jpg
-      altText: Hero image
+      altText: HARSH DWIVEDI
       caption: Caption of the image
       elementId: ''
     colors: colors-d
