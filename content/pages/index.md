@@ -47,7 +47,7 @@ sections:
           - pl-4
           - pr-4
         flexDirection: row-reverse
-        textAlign: right
+        textAlign: left
   - elementId: ''
     colors: colors-f
     backgroundSize: full
