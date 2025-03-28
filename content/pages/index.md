@@ -45,6 +45,7 @@ sections:
           - pr-4
         flexDirection: row-reverse
         textAlign: left
+    text: "*   \U0001F393 Currently completing my Bachelor of Computer Science (Major in Data Science) at Deakin University, Melbourne.\n\n*   ⚡ Passionate about building scalable, efficient, and user-friendly full-stack applications.\n\n*   \U0001F50D Experienced in data analytics, machine learning, and automation—leveraging Python, React, Flask, and cloud technologies.\n\n*   \U0001F680 Project Intern at Deakin FreelanceHub, Senior Leader in the Data Science Team at Chameleon, and former Data Analyst Intern at Infinitude Logistics.\n\n*   \U0001F4CA Skilled in data visualization, predictive modeling, and cloud platforms like AWS & Azure.\n\n*   \U0001F3C6 Awarded the Deakin International Scholarship for academic excellence.\n\n*   \U0001F4A1 Current Project: Developing a Personal Finance Assistant with ML-based forecasting to help users optimize their budgeting.\n\n*   \U0001F3AD Beyond Code: I enjoy mentoring students in STEM, volunteering, cycling, and exploring new tech innovations.\n\n*   \U0001F331 Take a look around my digital space, and let’s build something awesome together!\n"
   - elementId: ''
     colors: colors-f
     backgroundSize: full
