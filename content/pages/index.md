@@ -32,7 +32,7 @@ sections:
       type: ImageBlock
       url: /images/HARSH_DWIVEDI.jpg
       altText: HARSH DWIVEDI
-      caption: Caption of the image
+      caption: RFFRE
       elementId: ''
     colors: colors-d
     backgroundSize: full
