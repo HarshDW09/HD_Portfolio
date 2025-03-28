@@ -28,22 +28,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
-      caption: Caption of the image
-      elementId: >-
-        // stackbit.config.tsimport { defineStackbitConfig } from
-        "@stackbit/types";export default defineStackbitConfig({ 
-        stackbitVersion: "~0.6.0",  contentSources: [    // ...  ], 
-        assetSources: [    {      name: "asset-source-name",      type:
-        "iframe",      url: "https://www.asset-source-url.com",      transform:
-        ({ assetData }) => assetData.imageUrl,      preview: ({ assetData }: {
-        assetData: string }) => ({ image: assetData })    }  ], 
-        modelExtensions: [    {      name: "hero",      type: "object",     
-        fields: [{ name: "image", type: "image", source: "asset-source-name"
-        }]    }  ]});
     colors: colors-c
     backgroundSize: full
     elementId: ''
