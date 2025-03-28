@@ -34,7 +34,7 @@ sections:
       altText: HARSH DWIVEDI
       caption: \
       elementId: ''
-    colors: colors-d
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
