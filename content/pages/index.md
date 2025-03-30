@@ -79,7 +79,7 @@ sections:
       - type: Button
         label: Project Link
         altText: ''
-        url: /
+        url: 'https://surveyforge.online/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
