@@ -9,10 +9,7 @@ description: >-
   expense tracking with AI-powered forecasting. Built with a React/TypeScript
   frontend and Python/Flask backend, the application leverages Scikit-learn
   models to predict monthly expenses with 85%+
-  accuracy.                                                         The
-  intuitive interface, designed with Tailwind CSS and Shadcn UI, provides visual
-  financial analytics through Recharts, while Supabase ensures secure data
-  management. 
+  accuracy.                                                         
 featuredImage:
   type: ImageBlock
   url: /images/screenshot-1743312112516.png
