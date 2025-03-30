@@ -97,7 +97,7 @@ sections:
           ### Data Analyst Intern
 
 
-          **Infinitude Logistics, Ludhiana**
+          **Infinitude Logistics**
 
           *October 2023 - February 2024*
 
