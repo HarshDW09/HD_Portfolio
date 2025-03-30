@@ -1,0 +1,71 @@
+{
+    "model": "FeaturedItemsSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "education",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "1"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": null,
+                "subtitle": null,
+                "items": [
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": null,
+                        "subtitle": "Experience:",
+                        "text": "**Current**\n\n* freelance @freelance.me\n\n**2018-2021**\n\n* fullstack at this startup\n\n**2015**\n\n* senior front-end at this place\n\n**2013**\n\n* intern developer at a big company\n\n**2011**\n\n* flipping burgers",
+                        "featuredImage": null,
+                        "actions": [],
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": null,
+                        "subtitle": "Education:",
+                        "text": "**2015-2018**\n\n* ba computer sciense at a semi fancy school\n\n**2014**\n\n* react certificate somewhere\n\n**2011**\n\n* my highschool",
+                        "featuredImage": null,
+                        "actions": [],
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    }
+                ],
+                "actions": [],
+                "colors": "colors-f",
+                "columns": 2,
+                "spacingX": 60,
+                "spacingY": 60,
+                "elementId": null,
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "padding": [
+                            "pt-8",
+                            "pb-8",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "textAlign": "left"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-items-section-education-f52c.png"
+        }
+    ]
+}
