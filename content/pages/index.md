@@ -194,7 +194,7 @@ sections:
           - pb-36
           - pl-4
           - pr-4
-        textAlign: right
+        textAlign: center
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
