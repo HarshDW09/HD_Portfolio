@@ -261,7 +261,7 @@ sections:
         label: ' C/C++'
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: SQL
         url: ''
       - type: Label
         label: Next.js
