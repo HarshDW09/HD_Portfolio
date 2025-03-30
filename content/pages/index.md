@@ -58,6 +58,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     projects:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
