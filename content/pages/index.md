@@ -270,7 +270,7 @@ sections:
         label: 'React '
         url: ''
       - type: Label
-        label: Pancakes
+        label: 'Node.js '
         url: ''
       - type: Label
         label: C++
