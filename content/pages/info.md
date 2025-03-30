@@ -14,10 +14,14 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # I'm a data science enthusiast with strong full-stack development skills,
+      currently pursuing my Bachelor's in Computer Science at Deakin University.
+      My passion lies in transforming complex data into actionable insights and
+      building user-friendly applications. With experience in machine learning,
+      data visualization, and web development, I bring a versatile approach to
+      solving real-world problems. My international background and academic
+      excellence have shaped my collaborative and innovative approach to
+      technology projects.
 
     styles:
       self:
