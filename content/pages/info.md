@@ -51,38 +51,6 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/Deakin_University_Logo_2017.svg.png
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/1694569437717.jpeg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/MediumSquareLogo.jpg
-        altText: Logo three
-        caption: Logo three
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        textAlign: left
-    title: 'I worked with these folks:'
   - type: DividerSection
     styles:
       self:
