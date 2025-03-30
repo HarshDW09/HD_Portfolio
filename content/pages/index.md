@@ -78,6 +78,67 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+  - type: FeaturedItemsSection
+    items:
+      - type: FeaturedItem
+        subtitle: 'Experience:'
+        text: |-
+          **Current**
+
+          * freelance @freelance.me
+
+          **2018-2021**
+
+          * fullstack at this startup
+
+          **2015**
+
+          * senior front-end at this place
+
+          **2013**
+
+          * intern developer at a big company
+
+          **2011**
+
+          * flipping burgers
+        actions: []
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        subtitle: 'Education:'
+        text: |-
+          **2015-2018**
+
+          * ba computer sciense at a semi fancy school
+
+          **2014**
+
+          * react certificate somewhere
+
+          **2011**
+
+          * my highschool
+        actions: []
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 2
+    spacingX: 60
+    spacingY: 60
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        textAlign: left
   - type: TextSection
     title: The Section Title
     text: >+
