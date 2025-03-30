@@ -108,7 +108,7 @@ sections:
             textAlign: left
         title: 'Experience:'
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: ''
         text: |+
           ***July 2023 - June 2025***
 
