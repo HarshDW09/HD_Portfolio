@@ -276,7 +276,7 @@ sections:
         label: 'Tableau '
         url: ''
       - type: Label
-        label: Swift
+        label: Power BI
         url: ''
     colors: colors-d
     elementId: ''
