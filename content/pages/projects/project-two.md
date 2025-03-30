@@ -10,7 +10,7 @@ description: >-
   Docker, Supabase Link j
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/SurveyForge.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
