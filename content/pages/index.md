@@ -70,7 +70,7 @@ sections:
       - type: Button
         label: Project Link
         altText: ''
-        url: /
+        url: 'https://infinitudelogistics.in/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
