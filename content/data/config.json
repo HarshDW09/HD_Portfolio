@@ -85,7 +85,7 @@
             "address": "8 Milford Ave Burwood VIC 3125",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",
