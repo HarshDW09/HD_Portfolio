@@ -67,10 +67,6 @@ sections:
         url: /images/MediumSquareLogo.jpg
         altText: Logo three
         caption: Logo three
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
     spacing: 3
     columns: 5
     aspectRatio: auto
