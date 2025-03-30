@@ -53,7 +53,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     title: 'I worked with these folks:'
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
