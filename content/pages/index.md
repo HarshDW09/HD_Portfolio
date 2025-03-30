@@ -108,18 +108,21 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          *July 2023 - June 2025*
 
-          * ba computer sciense at a semi fancy school
+
+
+          *   ba computer sciense at a semi fancy school
 
           **2014**
 
-          * react certificate somewhere
+          *   react certificate somewhere
 
           **2011**
 
-          * my highschool
+          *   my highschool
+
         actions: []
         styles:
           self:
