@@ -12,9 +12,7 @@ description: >-
   accuracy.                                                         The
   intuitive interface, designed with Tailwind CSS and Shadcn UI, provides visual
   financial analytics through Recharts, while Supabase ensures secure data
-  management. Docker containerization enables consistent deployment and
-  scalability, making SAVE$ a powerful tool for improving budgeting decisions
-  and overall financial health.
+  management. 
 featuredImage:
   type: ImageBlock
   url: /images/screenshot-1743312112516.png
