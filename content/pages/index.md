@@ -17,7 +17,7 @@ sections:
     subtitle: ''
     actions:
       - type: Button
-        label: Connect with Me !
+        label: Download CV
         altText: ''
         url: '/https://www.linkedin.com/in/harshdwivedi050/'
         showIcon: true
