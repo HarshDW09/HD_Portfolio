@@ -108,7 +108,7 @@ sections:
             textAlign: left
         title: 'Experience:'
       - type: FeaturedItem
-        subtitle: ''
+        subtitle: My Academic Journey
         text: |+
           ### Bachelor of Computer Science, Major in Data Science
 
