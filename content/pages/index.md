@@ -50,14 +50,6 @@ sections:
   - type: FeaturedProjectsSection
     subtitle: 'Projects:'
     actions:
-      - type: Link
-        label: See all projects
-        altText: See all projects
-        url: /projects
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
       - type: Button
         label: Project Link
         altText: ''
