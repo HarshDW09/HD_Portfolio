@@ -7,7 +7,7 @@ client: Personal Finance Assistant
 description: >-
   Achieved 85%+ expense forecasting accuracy using scikit-learnImplemented
   real-time transaction categorizationTechnologies: Python, Flask, React,
-  Docker, Supabase
+  Docker, Supabase Link j
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
