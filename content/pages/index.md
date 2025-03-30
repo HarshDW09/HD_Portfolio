@@ -80,13 +80,111 @@ sections:
         textAlign: left
   - type: TextSection
     title: The Section Title
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      # My Journey
+
+
+      ## Education
+
+
+      ### Bachelor of Computer Science, Major in Data Science
+
+
+      **Deakin University, Melbourne**
+
+      *July 2023 - June 2025*
+
+
+      *   Awarded Deakin International Scholarship for academic excellence
+
+
+      *   Relevant coursework: Machine Learning, Data Structures and Algorithms,
+      Object-Oriented Development
+
+
+      ## Professional Experience
+
+
+      ### Project Lead - Data Science Team
+
+
+      **Chameleon - Smarter World, Melbourne**
+
+      *July 2024 - Present*
+
+
+      *   Leading spatial data analysis for Melbourne CBD urban planning
+      initiatives
+
+
+      *   Implementing GitHub workflows and code review processes for the data
+      science team
+
+
+      ### Project Intern
+
+
+      **Deakin FreelanceHub, Melbourne**
+
+      *February 2025 - Present*
+
+
+      *   Creating data visualization dashboards for community insights
+
+
+      *   Collaborating with stakeholders to define requirements and deliver
+      impactful solutions
+
+
+      ### Data Analyst Intern
+
+
+      **Infinitude Logistics, Ludhiana**
+
+      *October 2023 - February 2024*
+
+
+      *   Designed interactive dashboards that reduced shipping delays by 20%
+
+
+      *   Optimized workflows using Power BI and Python, cutting operational
+      costs by 15%
+
+
+      *   Automated data extraction processes, improving reporting efficiency by
+      30%
+
+
+      ## Volunteering
+
+
+      ### eMentor
+
+
+      **In2science, Melbourne**
+
+      *March 2025 - Present*
+
+
+      *   Mentoring high school students in mathematics and software development
+      fundamentals
+
+
+      ### Student Committee Member
+
+
+      **Deakin College, Melbourne**
+
+      *November 2022 - July 2023*
+
+
+      *   Led study focus groups to enhance student engagement
+
+
+      *   Advocated for improved facilities and support services
+
+
+
     colors: colors-f
     variant: variant-a
     elementId: ''
