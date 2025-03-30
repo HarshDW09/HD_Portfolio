@@ -251,23 +251,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
-        styles:
-          self:
-            textAlign: left
     columns: 2
     spacingX: 60
     spacingY: 60
