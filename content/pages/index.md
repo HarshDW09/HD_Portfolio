@@ -94,10 +94,6 @@ sections:
           *   Creating data visualization dashboards for community insights
 
 
-          *   Collaborating with stakeholders to define requirements and deliver
-          impactful solutions
-
-
           ### Data Analyst Intern
 
 
@@ -116,8 +112,6 @@ sections:
 
           *   Automated data extraction processes, improving reporting
           efficiency by 30%
-
-
 
         actions: []
         styles:
