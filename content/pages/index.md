@@ -232,35 +232,7 @@ sections:
       30%
 
 
-      ## Volunteering
-
-
-      ### eMentor
-
-
-      **In2science, Melbourne**
-
-      *March 2025 - Present*
-
-
-      *   Mentoring high school students in mathematics and software development
-      fundamentals
-
-
-      ### Student Committee Member
-
-
-      **Deakin College, Melbourne**
-
-      *November 2022 - July 2023*
-
-
-      *   Led study focus groups to enhance student engagement
-
-
-      *   Advocated for improved facilities and support services
-
-
+      ##
 
     colors: colors-f
     variant: variant-a
