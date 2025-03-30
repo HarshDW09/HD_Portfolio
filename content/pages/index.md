@@ -19,7 +19,8 @@ sections:
       - type: Button
         label: Download CV
         altText: ''
-        url: '/https://www.linkedin.com/in/harshdwivedi050/'
+        url: >-
+          https://drive.google.com/file/d/1LWV3s9P4p542SfQmoruOd4PF8Hh8WRbj/view?usp=sharing
         showIcon: true
         icon: arrowRight
         iconPosition: right
