@@ -122,6 +122,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: 'Education:'
     actions: []
     colors: colors-f
     columns: 2
