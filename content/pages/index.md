@@ -10,25 +10,29 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
+  - type: HeroSection
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I am a Software Engineer with expertise in Full-Stack Development and Data
+      Analytics.
+    subtitle: ''
+    actions:
+      - type: Button
+        label: Download CV
+        altText: ''
+        url: >-
+          https://drive.google.com/file/d/1LWV3s9P4p542SfQmoruOd4PF8Hh8WRbj/view?usp=sharing
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: inset
+    elementId: ''
     styles:
       self:
         height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: full
         padding:
           - pt-36
           - pb-48
@@ -36,24 +40,44 @@ sections:
           - pr-4
         flexDirection: row-reverse
         textAlign: left
-    type: HeroSection
-    actions: []
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
+    text: "*   \U0001F393 Currently completing my Bachelor of Computer Science (Major in Data Science) at Deakin University, Melbourne.\n\n*   ⚡Passionate about developing data-driven solutions and scalable software applications that combine analytical insights with elegant interface.\n\n*   \U0001F50D Experienced in data analytics, machine learning, and automation—leveraging Python, React, Flask, and cloud technologies.\n\n*   \U0001F680 Project Intern at Deakin FreelanceHub and former Data Analyst Intern at Infinitude Logistics.\n\n*   \U0001F4CA Skilled in data visualization, predictive modeling, and cloud platforms like AWS & Azure.\n\n*   \U0001F3C6 Awarded the Deakin International Scholarship for academic excellence.\n\n*   \U0001F4A1 Current Project: Developing a Personal Finance Assistant with ML-based forecasting to help users optimize their budgeting.\n\n*   \U0001F3AD Beyond Code: I enjoy mentoring students in STEM( In2Science), volunteering, cycling, and exploring new tech innovations.\n\n*   \U0001F331 Take a look around my digital space, and let’s build something awesome together!\n\n"
+    media:
+      type: ImageBlock
+      url: /images/HARSH_DWIVEDI.jpg
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+  - type: FeaturedProjectsSection
+    subtitle: 'Projects:'
     actions:
-      - type: Link
-        label: See all projects
-        url: /projects
+      - type: Button
+        label: Project Link
+        altText: ''
+        url: 'https://infinitudelogistics.in/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: Project Link
+        altText: ''
+        url: 'https://surveyforge.online/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+    projects:
+      - content/pages/projects/project-one.md
+      - content/pages/projects/project-two.md
+    colors: colors-f
+    variant: variant-a
+    elementId: ''
     showDate: false
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
@@ -64,38 +88,123 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
-  - type: FeaturedPostsSection
-    elementId: ''
+  - type: FeaturedItemsSection
+    items:
+      - type: FeaturedItem
+        subtitle: A fresh perspective with the determination to innovate and excel
+        text: >+
+          ### Project Intern
+
+
+          **Deakin FreelanceHub, Melbourne**
+
+          *February 2025 - Present*
+
+
+          *   Creating data visualization dashboards for community insights
+
+
+          ### Data Analyst Intern
+
+
+          **Infinitude Logistics**
+
+          *October 2023 - February 2024*
+
+
+          *   Optimized workflows using Power BI and Python, cutting operational
+          costs by 15%
+
+
+          *   Automated data extraction processes, improving reporting
+          efficiency by 30%
+
+        actions: []
+        styles:
+          self:
+            textAlign: left
+        title: 'Experience:'
+      - type: FeaturedItem
+        subtitle: My Academic Journey
+        text: |+
+          ### Bachelor of Computer Science, Major in Data Science
+
+          **Deakin University, Melbourne**
+          *July 2023 - June 2025*
+
+          *   Awarded Deakin International Scholarship for academic excellence
+
+          ### High School
+
+          **DCM Presidency, India**
+          *April 2020 - August 2022*
+
+          *   High School Captain
+
+        actions: []
+        styles:
+          self:
+            textAlign: left
+        title: 'Education:'
+    actions: []
     colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
+    columns: 2
+    spacingX: 60
+    spacingY: 60
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         padding:
-          - pt-28
-          - pb-48
+          - pt-8
+          - pb-8
           - pl-4
           - pr-4
         textAlign: left
+  - type: LabelsSection
+    title: Skills
+    subtitle: The section subtitle
+    items:
+      - type: Label
+        label: Python
+        url: ''
+      - type: Label
+        label: ' C/C++'
+        url: ''
+      - type: Label
+        label: SQL
+        url: ''
+      - type: Label
+        label: 'NumPy/Pandas '
+        url: ''
+      - type: Label
+        label: 'React '
+        url: ''
+      - type: Label
+        label: 'Node.js '
+        url: ''
+      - type: Label
+        label: 'Tableau '
+        url: ''
+      - type: Label
+        label: Power BI
+        url: ''
+    colors: colors-b
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        textAlign: center
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Got an interesting project? or want to reach out for an opportunity Tell me more...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
