@@ -94,7 +94,7 @@ sections:
         textAlign: center
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/Deakin_University_Logo_2017.svg.png
