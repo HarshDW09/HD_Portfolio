@@ -109,12 +109,37 @@ sections:
         title: 'Experience:'
       - type: FeaturedItem
         subtitle: ''
-        text: |+
+        text: >+
+          ### Bachelor of Computer Science, Major in Data Science
+
+
+          **Deakin University, Melbourne**
+
+          *July 2023 - June 2025*
+
+
+          *   Awarded Deakin International Scholarship for academic excellence
+
+
+          *   Relevant coursework: Machine Learning, Data Structures and
+          Algorithms, Object-Oriented Development
+
+
+
+
+
+
+          ******
+
+
           ***July 2023 - June 2025***
+
 
           *   Bachelor of Computer Science at Deakin University, Burwood
 
+
           **March 2020 - August 2022**
+
 
           *   High School at DCM Presidency School
 
