@@ -59,7 +59,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/HarshDW09'
         styles:
           self:
             textAlign: left
