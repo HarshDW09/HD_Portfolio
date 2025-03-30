@@ -106,6 +106,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: 'Experience:'
       - type: FeaturedItem
         subtitle: 'Education:'
         text: |+
