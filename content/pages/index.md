@@ -25,12 +25,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/HARSH_DWIVEDI.jpg
-      altText: HARSH DWIVEDI
-      caption: \
-      elementId: ''
     colors: colors-f
     backgroundSize: inset
     elementId: ''
