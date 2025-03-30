@@ -68,7 +68,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Project Link
         altText: ''
         url: /
         showIcon: false
