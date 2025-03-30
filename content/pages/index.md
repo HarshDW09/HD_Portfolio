@@ -81,7 +81,7 @@ sections:
   - type: FeaturedItemsSection
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
+        subtitle: A fresh perspective with the determination to innovate and excel
         text: |-
           **Current**
 
