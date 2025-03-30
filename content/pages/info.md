@@ -56,7 +56,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Deakin_University_Logo_2017.svg.png
         altText: Image one
         caption: Image one caption
         elementId: ''
