@@ -127,6 +127,46 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+  - type: LabelsSection
+    title: Skills
+    subtitle: The section subtitle
+    items:
+      - type: Label
+        label: Python
+        url: ''
+      - type: Label
+        label: ' C/C++'
+        url: ''
+      - type: Label
+        label: SQL
+        url: ''
+      - type: Label
+        label: 'NumPy/Pandas '
+        url: ''
+      - type: Label
+        label: 'React '
+        url: ''
+      - type: Label
+        label: 'Node.js '
+        url: ''
+      - type: Label
+        label: 'Tableau '
+        url: ''
+      - type: Label
+        label: Power BI
+        url: ''
+    colors: colors-d
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        textAlign: left
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -187,45 +227,5 @@ sections:
           - pr-4
           - pl-4
         flexDirection: row
-        textAlign: left
-  - type: LabelsSection
-    title: Skills
-    subtitle: The section subtitle
-    items:
-      - type: Label
-        label: Python
-        url: ''
-      - type: Label
-        label: ' C/C++'
-        url: ''
-      - type: Label
-        label: SQL
-        url: ''
-      - type: Label
-        label: 'NumPy/Pandas '
-        url: ''
-      - type: Label
-        label: 'React '
-        url: ''
-      - type: Label
-        label: 'Node.js '
-        url: ''
-      - type: Label
-        label: 'Tableau '
-        url: ''
-      - type: Label
-        label: Power BI
-        url: ''
-    colors: colors-d
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
         textAlign: left
 ---
