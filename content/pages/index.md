@@ -82,26 +82,43 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: A fresh perspective with the determination to innovate and excel
-        text: |-
-          **Current**
+        text: >+
+          ### Project Intern
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          **Deakin FreelanceHub, Melbourne**
 
-          * fullstack at this startup
+          *February 2025 - Present*
 
-          **2015**
 
-          * senior front-end at this place
+          *   Creating data visualization dashboards for community insights
 
-          **2013**
 
-          * intern developer at a big company
+          *   Collaborating with stakeholders to define requirements and deliver
+          impactful solutions
 
-          **2011**
 
-          * flipping burgers
+          ### Data Analyst Intern
+
+
+          **Infinitude Logistics, Ludhiana**
+
+          *October 2023 - February 2024*
+
+
+          *   Designed interactive dashboards that reduced shipping delays by
+          20%
+
+
+          *   Optimized workflows using Power BI and Python, cutting operational
+          costs by 15%
+
+
+          *   Automated data extraction processes, improving reporting
+          efficiency by 30%
+
+
+
         actions: []
         styles:
           self:
