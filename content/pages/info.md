@@ -228,26 +228,37 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: >+
+          ## Volunteering
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          ### eMentor
 
-          * fullstack at this startup
 
-          **2015**
+          **In2science, Melbourne**
 
-          * senior front-end at this place
+          *March 2025 - Present*
 
-          **2013**
 
-          * intern developer at a big company
+          *   Mentoring high school students in mathematics and software
+          development fundamentals
 
-          **2011**
 
-          * flipping burgers
+          ### Student Committee Member
+
+
+          **Deakin College, Melbourne**
+
+          *November 2022 - July 2023*
+
+
+          *   Led study focus groups to enhance student engagement
+
+
+          *   Advocated for improved facilities and support services
+
+
+
         styles:
           self:
             textAlign: left
