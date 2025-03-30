@@ -52,7 +52,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: MediaGallerySection
-    title: Gallery
+    title: 'I worked with these folks:'
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
