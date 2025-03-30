@@ -183,7 +183,7 @@ sections:
       - type: Label
         label: Power BI
         url: ''
-    colors: colors-c
+    colors: colors-b
     elementId: ''
     styles:
       self:
