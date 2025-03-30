@@ -67,7 +67,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://x.com/HarshDw54241572'
         styles:
           self:
             textAlign: left
