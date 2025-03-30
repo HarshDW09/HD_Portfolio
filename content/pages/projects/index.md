@@ -25,6 +25,16 @@ projectFeed:
         - pl-4
         - pr-4
         - pb-12
+  actions:
+    - type: Button
+      label: Learn more
+      altText: ''
+      url: /sdfgh
+      showIcon: false
+      icon: arrowRight
+      iconPosition: right
+      style: secondary
+      elementId: ''
 topSections:
   - type: HeroSection
     title: Projects
