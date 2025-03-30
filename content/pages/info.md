@@ -16,10 +16,7 @@ sections:
     text: >+
       ### I'm a data science enthusiast with strong full-stack development
       skills, currently pursuing my Bachelor's in Computer Science at Deakin
-      University. 
-
-
-      ###
+      University.
 
 
       ### My passion lies in transforming complex data into actionable insights
