@@ -14,14 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # I'm a data science enthusiast with strong full-stack development skills,
-      currently pursuing my Bachelor's in Computer Science at Deakin University.
-      My passion lies in transforming complex data into actionable insights and
-      building user-friendly applications. With experience in machine learning,
-      data visualization, and web development, I bring a versatile approach to
-      solving real-world problems. My international background and academic
-      excellence have shaped my collaborative and innovative approach to
-      technology projects.
+      #### I'm a data science enthusiast with strong full-stack development
+      skills, currently pursuing my Bachelor's in Computer Science at Deakin
+      University. My passion lies in transforming complex data into actionable
+      insights and building user-friendly applications. With experience in
+      machine learning, data visualization, and web development, I bring a
+      versatile approach to solving real-world problems. 
 
     styles:
       self:
