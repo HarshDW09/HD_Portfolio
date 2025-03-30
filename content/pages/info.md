@@ -118,6 +118,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+    title: 'I worked with these folks:'
   - type: DividerSection
     styles:
       self:
