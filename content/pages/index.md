@@ -111,9 +111,7 @@ sections:
         text: |+
           *July 2023 - June 2025*
 
-
-
-          *   ba computer sciense at a semi fancy school
+          *   Bachelor of Computer Science at Deakin University
 
           **2014**
 
