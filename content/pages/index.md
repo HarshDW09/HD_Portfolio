@@ -130,7 +130,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? or want to reach out for an opportunity Tell memore...\U0001F4AC"
+    title: "Got an interesting project? or want to reach out for an opportunity Tell me more...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
