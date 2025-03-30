@@ -264,7 +264,7 @@ sections:
         label: SQL
         url: ''
       - type: Label
-        label: Next.js
+        label: 'NumPy/Pandas '
         url: ''
       - type: Label
         label: Netlify
