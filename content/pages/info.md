@@ -75,7 +75,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/harshdwivedi050/'
         styles:
           self:
             textAlign: left
