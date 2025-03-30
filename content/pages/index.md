@@ -112,10 +112,6 @@ sections:
           *October 2023 - February 2024*
 
 
-          *   Designed interactive dashboards that reduced shipping delays by
-          20%
-
-
           *   Optimized workflows using Power BI and Python, cutting operational
           costs by 15%
 
