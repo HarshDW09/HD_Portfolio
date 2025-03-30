@@ -109,17 +109,13 @@ sections:
       - type: FeaturedItem
         subtitle: 'Education:'
         text: |+
-          *July 2023 - June 2025*
+          ***July 2023 - June 2025***
 
-          *   Bachelor of Computer Science at Deakin University
+          *   Bachelor of Computer Science at Deakin University, Burwood
 
-          **2014**
+          **March 2020 - August 2022**
 
-          *   react certificate somewhere
-
-          **2011**
-
-          *   my highschool
+          *   High School at DCM Presidency School
 
         actions: []
         styles:
