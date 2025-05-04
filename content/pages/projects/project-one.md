@@ -83,12 +83,12 @@ This project reflects my commitment to applying data science in ways that are **
 
 *   🌐 **Portfolio**: [Portfolio](https://harshd09.netlify.app/)
 
+*   💼  [LinkedIn](https://www.linkedin.com/in/harshdwivedi050/)
+
+
 ## 👨‍💻 Author
 
 **\[Harsh Dwivedi]**
 
 🎓 Data Science Graduate | 🧠 Machine Learning Enthusiast | 💻 Frontend Explorer
 
-## 📬 Contact
-
-*   💼 [LinkedIn](https://www.linkedin.com/in/harshdwivedi050/)
