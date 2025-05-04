@@ -15,11 +15,15 @@ featuredImage:
   url: /images/screenshot-1743312112516.png
   altText: Project thumbnail image
 media:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
-  altText: altText of the image
-  caption: Caption of the image
+  type: VideoBlock
+  title: Title of the video
+  url: 'https://youtu.be/BD-YliszGkA'
   elementId: ''
+  autoplay: false
+  loop: false
+  muted: false
+  controls: true
+  aspectRatio: '16:9'
 ---
 ###### **LINKLINK**
 
