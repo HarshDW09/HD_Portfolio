@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: SaveDollar
-colors: colors-b
+colors: colors-c
 date: '2021-10-15'
 client: Awesome client
 description: >-
