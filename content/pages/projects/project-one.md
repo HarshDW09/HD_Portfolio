@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: SaveDollar
 colors: colors-e
-date: '2022-02-15'
+date: '2024-09-15'
 client: ''
 description: >-
   SaveDollar is a web-based personal finance assistant I built to manage and
