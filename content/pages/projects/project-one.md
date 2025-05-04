@@ -5,11 +5,11 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  SAVE$ is a comprehensive personal finance assistant that seamlessly integrates
-  expense tracking with AI-powered forecasting. Built with a React/TypeScript
-  frontend and Python/Flask backend, the application leverages Scikit-learn
-  models to predict monthly expenses with 85%+
-  accuracy.                                                         
+  SaveDollar is a web-based personal finance assistant I built to manage and
+  analyze my own expenses more intelligently. The app integrates AI-powered
+  forecasting with financial dashboards to help users track their income,
+  expenses, budgets, savings goals, and spending trends with
+  ease.                                                      
 featuredImage:
   type: ImageBlock
   url: /images/screenshot-1743312112516.png
