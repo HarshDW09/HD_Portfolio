@@ -18,7 +18,7 @@ featuredImage:
   elementId: ''
 media:
   type: VideoBlock
-  title: Title of the video
+  title: DEMO
   url: 'https://youtu.be/3ZXJRDpvRFw'
   elementId: ''
   autoplay: false
