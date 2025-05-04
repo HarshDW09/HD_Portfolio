@@ -67,8 +67,6 @@ SaveDollar was developed using a full-stack approach. The **frontend** was built
 
 SaveDollar expects a `.json` file structured like this:
 
-
-
 ## 🧠 Why This Project Matters
 
 Most budgeting apps stop at *what* you spent. SaveDollar tells you *what you might spend next.*
@@ -77,29 +75,20 @@ In a world where AI recommends your next song, movie, or email — why not your 
 
 This project reflects my commitment to applying data science in ways that are **smart**, **ethical**, and **human-focused**. It’s not about complexity — it’s about clarity.
 
-
-
 ## 🔗 Links
 
-*   🔗 **Live Demo**: [lovable.dev project link](https://lovable.dev/projects/57ef667f-375f-424c-b46f-745824300b36)
+*   🔗 **Live Demo**: [Save$](https://infinitudelogistics.in/)
 
-*   📁 **GitHub Repo**: [github.com/YOUR\_USERNAME/Savedollar](https://github.com/YOUR_USERNAME/Savedollar)
+*   📁 **GitHub Repo**: [Repo](https://github.com/HarshDW09)
 
-*   🌐 **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)
-
-
+*   🌐 **Portfolio**: [Portfolio](https://harshd09.netlify.app/)
 
 ## 👨‍💻 Author
 
-**\[Your Name]**
+**\[Harsh Dwivedi]**
 
 🎓 Data Science Graduate | 🧠 Machine Learning Enthusiast | 💻 Frontend Explorer
 
-🌐 [your-portfolio-link.com](https://your-portfolio-link.com)
-
 ## 📬 Contact
 
-*   💼 [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)
-
-*   🐛 Open an issue on [GitHub](https://github.com/YOUR_USERNAME/Savedollar/issues)
-
+*   💼 [LinkedIn](https://www.linkedin.com/in/harshdwivedi050/)
