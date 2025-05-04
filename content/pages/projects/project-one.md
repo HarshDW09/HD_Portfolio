@@ -12,8 +12,10 @@ description: >-
   ease.                                                      
 featuredImage:
   type: ImageBlock
-  url: /images/screenshot-1743312112516.png
-  altText: Project thumbnail image
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 media:
   type: VideoBlock
   title: Title of the video
