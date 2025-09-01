@@ -15,17 +15,7 @@ sections:
       I am a Software Engineer with expertise in Full-Stack Development and Data
       Analytics.
     subtitle: ''
-    actions:
-      - type: Button
-        label: Download CV
-        altText: ''
-        url: >-
-          https://drive.google.com/file/d/1LWV3s9P4p542SfQmoruOd4PF8Hh8WRbj/view?usp=sharing
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     colors: colors-f
     backgroundSize: inset
     elementId: ''
