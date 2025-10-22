@@ -97,12 +97,10 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: ''
-        text: |+
+        text: |
           <section class="timeline-section">
-            
-            <div class="timeline">
 
-          ```
+            <div class="timeline">
           <div class="timeline-item">
             <div class="timeline-dot"></div>
             <div class="timeline-content">
@@ -133,7 +131,6 @@ sections:
           ```
 
             </div>
-
         actions: []
         styles:
           self:
