@@ -11,13 +11,13 @@ backgroundImage:
   opacity: 75
 sections:
   - type: HeroSection
-    title: >-
-      I am a Software Engineer with expertise in Full-Stack Development and Data
-      Analytics.
-    subtitle: ''
+    title: Harsh Dwivedi
+    subtitle: >-
+      Focused on Full-Stack Development, Data Analytics, and Intelligent
+      Software Solutions.
     actions: []
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     elementId: ''
     styles:
       self:
@@ -30,7 +30,22 @@ sections:
           - pr-4
         flexDirection: row-reverse
         textAlign: left
-    text: "*   \U0001F393 Currently completing my Bachelor of Computer Science (Major in Data Science) at Deakin University, Melbourne.\n\n*   ⚡Passionate about developing data-driven solutions and scalable software applications that combine analytical insights with elegant interface.\n\n*   \U0001F50D Experienced in data analytics, machine learning, and automation—leveraging Python, React, Flask, and cloud technologies.\n\n*   \U0001F680 Project Intern at Deakin FreelanceHub and former Data Analyst Intern at Infinitude Logistics.\n\n*   \U0001F4CA Skilled in data visualization, predictive modeling, and cloud platforms like AWS & Azure.\n\n*   \U0001F3C6 Awarded the Deakin International Scholarship for academic excellence.\n\n*   \U0001F4A1 Current Project: Developing a Personal Finance Assistant with ML-based forecasting to help users optimize their budgeting.\n\n*   \U0001F3AD Beyond Code: I enjoy mentoring students in STEM( In2Science), volunteering, cycling, and exploring new tech innovations.\n\n*   \U0001F331 Take a look around my digital space, and let’s build something awesome together!\n\n"
+    text: >+
+      *   Graduated with a Bachelor of Computer Science (Data Science major)
+      from Deakin University, Melbourne
+
+
+      *   Passionate about developing data-driven software solutions that
+      integrate analytics, automation, and design.
+
+
+      *   Skilled in Python, React, Flask, Node.js, Power BI, and cloud
+      technologies including AWS and Azure.
+
+
+      *   Continuously exploring new technologies and mentoring students in STEM
+      through the In2Science Program.
+
     media:
       type: ImageBlock
       url: /images/IMG_6613.JPG
@@ -81,39 +96,45 @@ sections:
   - type: FeaturedItemsSection
     items:
       - type: FeaturedItem
-        subtitle: A fresh perspective with the determination to innovate and excel
-        text: >+
-          ### Project Intern
+        subtitle: ''
+        text: |+
+          <section class="timeline-section">
 
+            <div class="timeline">
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-content">
+              <h3>Project Intern</h3>
+              <h4>Deakin FreelanceHub, Melbourne</h4>
+              <p class="timeline-date">February 2025 – May 2025</p>
+              <ul>
+                <li>Built a Python/Tableau system to analyse demographic data across six regional areas (128,000+ residents).</li>
+                <li>Automated workflows, reducing analysis time by 60%.</li>
+                <li>Collaborated with cross-functional teams using Agile to deliver insights on community volunteering trends.</li>
+              </ul>
+            </div>
+          </div>
 
-          **Deakin FreelanceHub, Melbourne**
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-content">
+              <h3>Data Analyst Intern</h3>
+              <h4>Infinitude Logistics, Ludhiana</h4>
+              <p class="timeline-date">October 2023 – February 2024</p>
+              <ul>
+                <li>Developed an automated ETL pipeline in Python and SQL, reducing data processing time from 3 hours to 25 minutes.</li>
+                <li>Designed Tableau dashboards with real-time KPI tracking for logistics operations.</li>
+                <li>Implemented an automated shipment alert system, reducing delivery delays by 15%.</li>
+              </ul>
+            </div>
+          </div>
 
-          *February 2025 - Present*
-
-
-          *   Creating data visualization dashboards for community insights
-
-
-          ### Data Analyst Intern
-
-
-          **Infinitude Logistics**
-
-          *October 2023 - February 2024*
-
-
-          *   Optimized workflows using Power BI and Python, cutting operational
-          costs by 15%
-
-
-          *   Automated data extraction processes, improving reporting
-          efficiency by 30%
 
         actions: []
         styles:
           self:
             textAlign: left
-        title: 'Experience:'
+        title: Experience
       - type: FeaturedItem
         subtitle: My Academic Journey
         text: |+
