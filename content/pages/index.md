@@ -97,47 +97,132 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: ''
-        text: >+
-          ### Project Intern
+        text: |
+          <section class="timeline-section">
+            <h2 class="timeline-title">Experience</h2>
+            <div class="timeline">
 
+              <div class="timeline-item">
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                  <h3>Project Intern</h3>
+                  <h4>Deakin FreelanceHub, Melbourne</h4>
+                  <p class="timeline-date">February 2025 – May 2025</p>
+                  <ul>
+                    <li>Built a Python/Tableau system to analyse demographic data across six regional areas (128,000+ residents).</li>
+                    <li>Automated workflows, reducing analysis time by 60%.</li>
+                    <li>Collaborated with cross-functional teams using Agile to deliver insights on community volunteering trends.</li>
+                  </ul>
+                </div>
+              </div>
 
-          **Deakin FreelanceHub, Melbourne**
+              <div class="timeline-item">
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                  <h3>Data Analyst Intern</h3>
+                  <h4>Infinitude Logistics, Ludhiana</h4>
+                  <p class="timeline-date">October 2023 – February 2024</p>
+                  <ul>
+                    <li>Developed an automated ETL pipeline in Python and SQL, reducing data processing time from 3 hours to 25 minutes.</li>
+                    <li>Designed Tableau dashboards with real-time KPI tracking for logistics operations.</li>
+                    <li>Implemented an automated shipment alert system, reducing delivery delays by 15%.</li>
+                  </ul>
+                </div>
+              </div>
 
-          *February 2025 – May 2025*
+            </div>
+          </section>
 
+          <style>
+          .timeline-section {
+            max-width: 800px;
+            margin: 80px auto;
+            padding: 0 20px;
+            font-family: 'Inter', sans-serif;
+            color: #0F172A;
+          }
 
-          *   Built a Python/Tableau system to analyse demographic data across
-          six regional areas (128,000+ residents)
+          .timeline-title {
+            text-align: center;
+            font-size: 36px;
+            font-weight: 700;
+            margin-bottom: 60px;
+            color: #2563EB;
+          }
 
+          .timeline {
+            position: relative;
+            margin-left: 20px;
+            padding-left: 20px;
+            border-left: 3px solid #2563EB;
+          }
 
-          *   Automated workflows, reducing analysis time by 60%
+          .timeline-item {
+            position: relative;
+            margin-bottom: 40px;
+            padding-left: 20px;
+          }
 
+          .timeline-dot {
+            position: absolute;
+            left: -11px;
+            top: 5px;
+            width: 18px;
+            height: 18px;
+            background-color: #2563EB;
+            border-radius: 50%;
+            border: 3px solid #F8FAFC;
+          }
 
-          *   Collaborated with cross-functional teams using Agile to gather
-          requirements and present insights on community volunteering trends
+          .timeline-content h3 {
+            margin: 0;
+            font-size: 22px;
+            font-weight: 600;
+            color: #0F172A;
+          }
 
+          .timeline-content h4 {
+            margin: 4px 0;
+            font-size: 18px;
+            color: #64748B;
+            font-weight: 500;
+          }
 
+          .timeline-date {
+            font-size: 14px;
+            color: #64748B;
+            margin-bottom: 10px;
+          }
 
+          .timeline-content ul {
+            list-style: disc;
+            padding-left: 20px;
+            margin: 0;
+          }
 
-          ### Data Analyst Intern
+          .timeline-content li {
+            margin-bottom: 6px;
+            line-height: 1.5;
+            font-size: 15px;
+            color: #0F172A;
+          }
 
+          @media (max-width: 600px) {
+            .timeline {
+              border-left: 2px solid #2563EB;
+            }
 
-          **Infinitude Logistics, Ludhiana**
+            .timeline-dot {
+              width: 14px;
+              height: 14px;
+              left: -9px;
+            }
 
-          *October 2023 – February 2024*
-
-
-          *   Developed an automated ETL pipeline in Python and SQL, reducing
-          data processing time from 3 hours to 25 minutes
-
-
-          *   Designed Tableau dashboards with real-time KPI tracking for
-          logistics operations
-
-
-          *   Implemented an automated shipment alert system, reducing delivery
-          delays by 15%
-
+            .timeline-title {
+              font-size: 28px;
+            }
+          }
+          </style>
         actions: []
         styles:
           self:
