@@ -97,9 +97,9 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: ''
-        text: |
+        text: |+
           <section class="timeline-section">
-            <h2 class="timeline-title">Experience</h2>
+            
             <div class="timeline">
 
           ```
@@ -133,6 +133,7 @@ sections:
           ```
 
             </div>
+
         actions: []
         styles:
           self:
