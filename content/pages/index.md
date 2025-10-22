@@ -102,45 +102,40 @@ sections:
             <h2 class="timeline-title">Experience</h2>
             <div class="timeline">
 
-              <div class="timeline-item">
-                <div class="timeline-dot"></div>
-                <div class="timeline-content">
-                  <h3>Project Intern</h3>
-                  <h4>Deakin FreelanceHub, Melbourne</h4>
-                  <p class="timeline-date">February 2025 – May 2025</p>
-                  <ul>
-                    <li>Built a Python/Tableau system to analyse demographic data across six regional areas (128,000+ residents).</li>
-                    <li>Automated workflows, reducing analysis time by 60%.</li>
-                    <li>Collaborated with cross-functional teams using Agile to deliver insights on community volunteering trends.</li>
-                  </ul>
-                </div>
-              </div>
+          ```
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-content">
+              <h3>Project Intern</h3>
+              <h4>Deakin FreelanceHub, Melbourne</h4>
+              <p class="timeline-date">February 2025 – May 2025</p>
+              <ul>
+                <li>Built a Python/Tableau system to analyse demographic data across six regional areas (128,000+ residents).</li>
+                <li>Automated workflows, reducing analysis time by 60%.</li>
+                <li>Collaborated with cross-functional teams using Agile to deliver insights on community volunteering trends.</li>
+              </ul>
+            </div>
+          </div>
 
-              <div class="timeline-item">
-                <div class="timeline-dot"></div>
-                <div class="timeline-content">
-                  <h3>Data Analyst Intern</h3>
-                  <h4>Infinitude Logistics, Ludhiana</h4>
-                  <p class="timeline-date">October 2023 – February 2024</p>
-                  <ul>
-                    <li>Developed an automated ETL pipeline in Python and SQL, reducing data processing time from 3 hours to 25 minutes.</li>
-                    <li>Designed Tableau dashboards with real-time KPI tracking for logistics operations.</li>
-                    <li>Implemented an automated shipment alert system, reducing delivery delays by 15%.</li>
-                  </ul>
-                </div>
-              </div>
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-content">
+              <h3>Data Analyst Intern</h3>
+              <h4>Infinitude Logistics, Ludhiana</h4>
+              <p class="timeline-date">October 2023 – February 2024</p>
+              <ul>
+                <li>Developed an automated ETL pipeline in Python and SQL, reducing data processing time from 3 hours to 25 minutes.</li>
+                <li>Designed Tableau dashboards with real-time KPI tracking for logistics operations.</li>
+                <li>Implemented an automated shipment alert system, reducing delivery delays by 15%.</li>
+              </ul>
+            </div>
+          </div>
+          ```
 
             </div>
           </section>
 
           <style>
-          body {
-            background-color: #ffffff;
-            color: #0f172a;
-            font-family: 'Inter', sans-serif;
-            margin: 0;
-            padding: 0;
-          }
 
           .timeline-section {
             max-width: 900px;
