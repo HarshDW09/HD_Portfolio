@@ -14,7 +14,7 @@ sections:
     title: >-
       I am a Software Engineer with expertise in Full-Stack Development and Data
       Analytics.
-    subtitle: ''
+    subtitle: HGV
     actions: []
     colors: colors-f
     backgroundSize: inset
