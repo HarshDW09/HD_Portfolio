@@ -14,7 +14,9 @@ sections:
     title: >-
       I am a Software Engineer with expertise in Full-Stack Development and Data
       Analytics.
-    subtitle: HGV
+    subtitle: >-
+      Focused on Full-Stack Development, Data Analytics, and Intelligent
+      Software Solutions.
     actions: []
     colors: colors-f
     backgroundSize: inset
