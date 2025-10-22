@@ -137,7 +137,7 @@ sections:
         styles:
           self:
             textAlign: left
-        title: ''
+        title: Experience
       - type: FeaturedItem
         subtitle: My Academic Journey
         text: |+
