@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: HeroSection
-    title: Software Engineer
+    title: Harsh Dwivedi
     subtitle: >-
       Focused on Full-Stack Development, Data Analytics, and Intelligent
       Software Solutions.
