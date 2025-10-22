@@ -31,16 +31,20 @@ sections:
         flexDirection: row-reverse
         textAlign: left
     text: >+
-      *   *   Graduated with a Bachelor of Computer Science (Data Science major)
-      from Deakin University, Melbourne.*   Passionate about developing
-      data-driven software solutions that integrate analytics, automation, and
-      design.*   Skilled in Python, React, Flask, Node.js, Power BI, and cloud
-      technologies including AWS and Azure.*   Experience as Project Intern at
-      Deakin FreelanceHub and Data Analyst Intern at Infinitude Logistics.*  
-      Proficient in building dashboards, optimizing workflows, and transforming
-      raw data into measurable outcomes.*   Continuously exploring new
-      technologies and mentoring students in STEM through the In2Science
-      Program.
+      *   Graduated with a Bachelor of Computer Science (Data Science major)
+      from Deakin University, Melbourne
+
+
+      *   Passionate about developing data-driven software solutions that
+      integrate analytics, automation, and design.
+
+
+      *   Skilled in Python, React, Flask, Node.js, Power BI, and cloud
+      technologies including AWS and Azure.
+
+
+      *   Continuously exploring new technologies and mentoring students in STEM
+      through the In2Science Program.
 
     media:
       type: ImageBlock
