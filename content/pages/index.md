@@ -11,9 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: HeroSection
-    title: >-
-      I am a Software Engineer with expertise in Full-Stack Development and Data
-      Analytics.
+    title: Software Engineer
     subtitle: >-
       Focused on Full-Stack Development, Data Analytics, and Intelligent
       Software Solutions.
