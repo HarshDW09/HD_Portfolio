@@ -96,7 +96,7 @@ sections:
   - type: FeaturedItemsSection
     items:
       - type: FeaturedItem
-        subtitle: A fresh perspective with the determination to innovate and excel
+        subtitle: ''
         text: >+
           ### Project Intern
 
