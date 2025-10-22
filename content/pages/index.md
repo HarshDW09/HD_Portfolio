@@ -103,26 +103,40 @@ sections:
 
           **Deakin FreelanceHub, Melbourne**
 
-          *February 2025 - Present*
+          *February 2025 – May 2025*
 
 
-          *   Creating data visualization dashboards for community insights
+          *   Built a Python/Tableau system to analyse demographic data across
+          six regional areas (128,000+ residents)
+
+
+          *   Automated workflows, reducing analysis time by 60%
+
+
+          *   Collaborated with cross-functional teams using Agile to gather
+          requirements and present insights on community volunteering trends
+
+
 
 
           ### Data Analyst Intern
 
 
-          **Infinitude Logistics**
+          **Infinitude Logistics, Ludhiana**
 
-          *October 2023 - February 2024*
-
-
-          *   Optimized workflows using Power BI and Python, cutting operational
-          costs by 15%
+          *October 2023 – February 2024*
 
 
-          *   Automated data extraction processes, improving reporting
-          efficiency by 30%
+          *   Developed an automated ETL pipeline in Python and SQL, reducing
+          data processing time from 3 hours to 25 minutes
+
+
+          *   Designed Tableau dashboards with real-time KPI tracking for
+          logistics operations
+
+
+          *   Implemented an automated shipment alert system, reducing delivery
+          delays by 15%
 
         actions: []
         styles:
