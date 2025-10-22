@@ -97,7 +97,7 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: ''
-        text: |
+        text: |+
           <section class="timeline-section">
 
             <div class="timeline">
@@ -128,9 +128,8 @@ sections:
               </ul>
             </div>
           </div>
-          ```
 
-            </div>
+
         actions: []
         styles:
           self:
